@@ -1,0 +1,28 @@
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\bin\Debug\net9.0\appsettings.json
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\bin\Debug\net9.0\22.Dividir con Try-Catch.api.staticwebassets.endpoints.json
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\bin\Debug\net9.0\22.Dividir con Try-Catch.api.exe
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\bin\Debug\net9.0\22.Dividir con Try-Catch.api.deps.json
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\bin\Debug\net9.0\22.Dividir con Try-Catch.api.runtimeconfig.json
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\bin\Debug\net9.0\22.Dividir con Try-Catch.api.dll
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\bin\Debug\net9.0\22.Dividir con Try-Catch.api.pdb
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\obj\Debug\net9.0\22.Dividir con Try-Catch.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\obj\Debug\net9.0\22.Dividir con Try-Catch.api.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\obj\Debug\net9.0\22.Dividir con Try-Catch.api.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\obj\Debug\net9.0\22.Dividir con Try-Catch.api.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\obj\Debug\net9.0\22.Dividir con Try-Catch.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\obj\Debug\net9.0\scopedcss\bundle\22.Dividir con Try-Catch.api.styles.css
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\obj\Debug\net9.0\22.Dividir con Try-Catch.api.dll
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\obj\Debug\net9.0\refint\22.Dividir con Try-Catch.api.dll
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\obj\Debug\net9.0\22.Dividir con Try-Catch.api.pdb
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\obj\Debug\net9.0\22.Dividir con Try-Catch.api.genruntimeconfig.cache
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\22.Dividir con Try-Catch\22.Dividir con Try-Catch.api\obj\Debug\net9.0\ref\22.Dividir con Try-Catch.api.dll

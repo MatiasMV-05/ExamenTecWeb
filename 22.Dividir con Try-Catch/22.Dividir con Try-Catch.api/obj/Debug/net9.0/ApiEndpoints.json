@@ -1,0 +1,43 @@
+[
+  {
+    "ContainingType": "_22.Dividir_con_Try_Catch.api.Controllers.DividirController",
+    "Method": "Dividir",
+    "RelativePath": "api/dividir/{a}/{b}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "a",
+        "Type": "System.Decimal",
+        "IsRequired": true
+      },
+      {
+        "Name": "b",
+        "Type": "System.Decimal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_22.Dividir_con_Try_Catch.api.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[_22.Dividir_con_Try_Catch.api.WeatherForecast, 22.Dividir con Try-Catch.api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

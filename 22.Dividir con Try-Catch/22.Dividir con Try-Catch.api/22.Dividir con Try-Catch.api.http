@@ -1,0 +1,6 @@
+@_22.Dividir_con_Try_Catch.api_HostAddress = http://localhost:5277
+
+GET {{_22.Dividir_con_Try_Catch.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
