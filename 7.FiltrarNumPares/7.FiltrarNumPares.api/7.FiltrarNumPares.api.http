@@ -1,6 +1,0 @@
-@_7.FiltrarNumPares.api_HostAddress = http://localhost:5277
-
-GET {{_7.FiltrarNumPares.api_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
