@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "_26.FiltrarPrecio.api.Controllers.FiltroPrecioController",
+    "Method": "GetProductosCaros",
+    "RelativePath": "api/FiltroPrecio/caros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_26.FiltrarPrecio.api.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[_26.FiltrarPrecio.api.WeatherForecast, 26.FiltrarPrecio.api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
