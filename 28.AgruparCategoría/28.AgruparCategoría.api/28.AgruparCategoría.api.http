@@ -1,0 +1,6 @@
+@_28.AgruparCategoría.api_HostAddress = http://localhost:5194
+
+GET {{_28.AgruparCategoría.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
