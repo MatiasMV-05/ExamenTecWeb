@@ -1,0 +1,130 @@
+[
+  {
+    "ContainingType": "_15_Encapsulaci\u00F3n_CuentaBancaria.api.Controllers.CuentaBancariaController",
+    "Method": "GetAll",
+    "RelativePath": "api/CuentaBancaria",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[_15_Encapsulaci\u00F3n_CuentaBancaria.api.Models.CuentaBancaria, 15_Encapsulaci\u00F3n_CuentaBancaria.api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "_15_Encapsulaci\u00F3n_CuentaBancaria.api.Controllers.CuentaBancariaController",
+    "Method": "GetByNumeroCuenta",
+    "RelativePath": "api/CuentaBancaria/{numeroCuenta}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numeroCuenta",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "_15_Encapsulaci\u00F3n_CuentaBancaria.api.Models.CuentaBancaria",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "_15_Encapsulaci\u00F3n_CuentaBancaria.api.Controllers.CuentaBancariaController",
+    "Method": "Depositar",
+    "RelativePath": "api/CuentaBancaria/depositar/{NumeroCuenta}/{Monto}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "NumeroCuenta",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "Monto",
+        "Type": "System.Decimal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "_15_Encapsulaci\u00F3n_CuentaBancaria.api.Models.CuentaBancaria",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "_15_Encapsulaci\u00F3n_CuentaBancaria.api.Controllers.CuentaBancariaController",
+    "Method": "Retirar",
+    "RelativePath": "api/CuentaBancaria/retirar/{NumeroCuenta}/{Monto}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "NumeroCuenta",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "Monto",
+        "Type": "System.Decimal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "_15_Encapsulaci\u00F3n_CuentaBancaria.api.Models.CuentaBancaria",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "_15_Encapsulaci\u00F3n_CuentaBancaria.api.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[_15_Encapsulaci\u00F3n_CuentaBancaria.api.WeatherForecast, 15_Encapsulaci\u00F3n_CuentaBancaria.api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

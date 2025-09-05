@@ -1,0 +1,6 @@
+@_15_Encapsulación_CuentaBancaria.api_HostAddress = http://localhost:5256
+
+GET {{_15_Encapsulación_CuentaBancaria.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
