@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "_8.Diccionario_Traducciones.api.Controllers.TraducirController",
+    "Method": "Traducir",
+    "RelativePath": "api/Traducir/{palabra}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "palabra",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_8.Diccionario_Traducciones.api.Controllers.TraducirController",
+    "Method": "ObtenerTodasLasTraducciones",
+    "RelativePath": "api/Traducir/todas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_8.Diccionario_Traducciones.api.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[_8.Diccionario_Traducciones.api.WeatherForecast, 8.Diccionario_Traducciones.api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

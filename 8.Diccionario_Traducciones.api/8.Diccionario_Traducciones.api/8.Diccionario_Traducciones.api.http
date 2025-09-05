@@ -1,0 +1,6 @@
+@_8.Diccionario_Traducciones.api_HostAddress = http://localhost:5236
+
+GET {{_8.Diccionario_Traducciones.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
