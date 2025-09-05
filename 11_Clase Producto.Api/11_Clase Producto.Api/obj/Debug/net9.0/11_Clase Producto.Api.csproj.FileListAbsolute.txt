@@ -1,0 +1,28 @@
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\bin\Debug\net9.0\appsettings.json
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\bin\Debug\net9.0\11_Clase Producto.Api.staticwebassets.endpoints.json
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\bin\Debug\net9.0\11_Clase Producto.Api.exe
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\bin\Debug\net9.0\11_Clase Producto.Api.deps.json
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\bin\Debug\net9.0\11_Clase Producto.Api.runtimeconfig.json
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\bin\Debug\net9.0\11_Clase Producto.Api.dll
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\bin\Debug\net9.0\11_Clase Producto.Api.pdb
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\obj\Debug\net9.0\11_Clase Producto.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\obj\Debug\net9.0\11_Clase Producto.Api.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\obj\Debug\net9.0\11_Clase Producto.Api.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\obj\Debug\net9.0\11_Clase Producto.Api.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\obj\Debug\net9.0\11_Clase Producto.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\obj\Debug\net9.0\scopedcss\bundle\11_Clase Producto.Api.styles.css
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\obj\Debug\net9.0\11_Clase Producto.Api.dll
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\obj\Debug\net9.0\refint\11_Clase Producto.Api.dll
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\obj\Debug\net9.0\11_Clase Producto.Api.pdb
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\obj\Debug\net9.0\11_Clase Producto.Api.genruntimeconfig.cache
+C:\Users\matia\OneDrive\Desktop\4 Semestre\Estructuras Tarea\11_Clase Producto.Api\11_Clase Producto.Api\obj\Debug\net9.0\ref\11_Clase Producto.Api.dll
