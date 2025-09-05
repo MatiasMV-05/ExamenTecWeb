@@ -24,11 +24,8 @@ namespace FiltersNumParser.api.Controllers
                 }
             }
 
-            return Ok(new
-            {
-                TotalPares = numerosPares.Count,
-                NumerosPares = numerosPares,
-            });
+            return Ok(numerosPares);
         }
     }
+
 }
