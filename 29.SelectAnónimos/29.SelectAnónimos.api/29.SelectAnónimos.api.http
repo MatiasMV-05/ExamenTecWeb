@@ -1,0 +1,6 @@
+@_29.SelectAnónimos.api_HostAddress = http://localhost:5217
+
+GET {{_29.SelectAnónimos.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
